@@ -1,10 +1,10 @@
-<ID>1<ID/>
-<Project>hyperauto.ru<Project/>
-<Version>1.0<Version/>
-<Environment>Win10, Google Chrome ver.96.0.4664.45<Environment/>
-<Title>An error in the spelling of the word IDEMITSU, in the name of the engine oil<Title/>
+<ID>1</ID>
+<Project>hyperauto.ru</Project>
+<Version>1.0</Version>
+<Environment>Win10, Google Chrome ver.96.0.4664.45</Environment>
+<Title>An error in the spelling of the word IDEMITSU, in the name of the engine oil</Title>
 <Steps>1)Follow the link: https://hyperauto.ru/product/maslo-motornoe-idemitsu-zepro-eco-medalist-0w20-sinteticheskoe-sn-gf-5-dlya-benzinovogo-dvigatelya-4l-00000146,
-2)Check the name of the engine oil<Steps/>
-<Expected_result>The name of the oil is written correctly<Exepected_result/> 
-<Actual result>Error in the word Idemitcu, correct Idemitsu<Actual_result/> 
-<Attachment>Missing<Attachment/>
+2)Check the name of the engine oil</Steps>
+<Expected_result>The name of the oil is written correctly</Exepected_result> 
+<Actual result>Error in the word Idemitcu, correct Idemitsu</Actual_result> 
+<Attachment>Missing</Attachment>
