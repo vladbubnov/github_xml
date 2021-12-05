@@ -1,4 +1,5 @@
-<xml>
+<?xml version="1.0" encoding="windows-21H1"?>
+<skills>
 <Basic_theory>SDLC, STLC, types ans methods of testing, bug report, test case, checklists</Basic_theory>
 <HTTP>Methods and structure of request, response codes</HTTP>
 <Postman>API testing</Postman>
@@ -10,3 +11,4 @@
 <Jmeter>Load testing</Jmeter>
 <Development_methodology>Waterfall, V-model, Spiral, Agile, Scrum, Kanban</Development_methodology>
 <Python>The basics. Creating a client server application</Python>
+</skills>
