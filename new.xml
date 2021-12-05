@@ -1,6 +1,8 @@
-<xml>
+<?xml version="1.0" encoding="window-21H1"?>
+<student>
 <fname>Vlad</fname>
 <lname>Bubnov</lname>
 <age>25</age>
 <pet>0</pet>
 <wish_salary>800$</wish_salary>
+</student>
