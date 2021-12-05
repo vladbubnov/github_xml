@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="window-21H1"?>
+<bug_report>
 <ID>1</ID>
 <Project>hyperauto.ru</Project>
 <Version>1.0</Version>
@@ -8,3 +10,4 @@
 <Expected_result>The name of the oil is written correctly</Exepected_result> 
 <Actual result>Error in the word Idemitcu, correct Idemitsu</Actual_result> 
 <Attachment>Missing</Attachment>
+</bug_report>
